@@ -1,2 +1,2 @@
-# python
- Notebooks e códigos de treinamento na lingugem.
+# Notebook Python
+Notebooks e códigos de treinamento na lingugem.
